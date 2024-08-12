@@ -8,7 +8,7 @@
 - 📚 *I love to explore more new things in Tech***
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-ayushbisht0902@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:devxoshakya@gmail.com)](mailto:devxoshakya@gmail.com)
-  * [![Linkedin Badge](https://img.shields.io/badge/-ayush-bisht-a42442261-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:devxoshakya@gmail.com)](https://www.linkedin.com/in/devxoshakya/)
+  * [![Linkedin Badge](https://img.shields.io/badge/-(ayush-bisht-a42442261)-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:devxoshakya@gmail.com)](https://www.linkedin.com/in/devxoshakya/)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning more about **App Devlopment and DSA**
 - 📚 *I love to explore more new things in Tech***
 - 📫 How to reach me :
-  * [![Gmail Badge](https://img.shields.io/badge/-ayushbisht0902@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:devxoshakya@gmail.com)](mailto:devxoshakya@gmail.com)
-  * [![Linkedin Badge](https://img.shields.io/badge/-(ayush-bisht-a42442261)-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:devxoshakya@gmail.com)](https://www.linkedin.com/in/devxoshakya/)
-
+  * [![Gmail Badge](https://img.shields.io/badge/-ayushbisht0902@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ayushbisht0902@gmail.com)](mailto:ayushbisht0902@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

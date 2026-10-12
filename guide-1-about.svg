@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="Guide bot: sector 1 of 4, ABOUT">
+  <style>
+    text { font-family: 'Courier New', 'Fira Code', 'JetBrains Mono', monospace; font-size: 13px; }
+    .eye { animation: blink 4s infinite; transform-box: fill-box; transform-origin: center; }
+    .ant { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes blink { 0%, 94%, 100% { transform: scaleY(1); } 97% { transform: scaleY(0.1); } }
+    @keyframes pulse { 50% { opacity: 0.25; } }
+    @media (prefers-reduced-motion: reduce) { .eye, .ant { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="c"><rect x="72" y="0" width="0" height="56"><animate attributeName="width" values="0;490;490;0" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="55" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- guide bot -->
+  <line x1="36" y1="9" x2="36" y2="15" stroke="#58a6ff" stroke-width="2"/>
+  <circle class="ant" cx="36" cy="8" r="3" fill="#3fb950"/>
+  <rect x="18" y="15" width="36" height="28" rx="6" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <rect class="eye" x="26" y="24" width="6" height="8" rx="1" fill="#58a6ff"/>
+  <rect class="eye" x="40" y="24" width="6" height="8" rx="1" fill="#58a6ff"/>
+  <rect x="29" y="36" width="14" height="2" fill="#30363d"/>
+
+  <!-- typed line -->
+  <g clip-path="url(#c)">
+    <text x="72" y="33"><tspan fill="#3fb950">guide@ayush</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#f0f6fc">cat about.md</tspan><tspan fill="#8b949e">  # who I am, what I'm building now</tspan></text>
+  </g>
+  <rect y="21" width="8" height="15" fill="#58a6ff">
+    <animate attributeName="x" values="72;562;562;72" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- sector readout + progress -->
+  <text x="892" y="24" text-anchor="end" fill="#58a6ff" style="font-size:11px">SECTOR 01/04 // ABOUT</text>
+  <rect x="762" y="34" width="28" height="4" rx="1" fill="#58a6ff"/>
+  <rect x="796" y="34" width="28" height="4" rx="1" fill="#30363d"/>
+  <rect x="830" y="34" width="28" height="4" rx="1" fill="#30363d"/>
+  <rect x="864" y="34" width="28" height="4" rx="1" fill="#30363d"/>
+</svg>
